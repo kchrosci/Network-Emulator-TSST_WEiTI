@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>lcd_monitor_icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\NetClient.cs" Link="NetClient.cs" />
+    <Compile Include="..\Utility.cs" Link="Utility.cs" />
+  </ItemGroup>
+
+</Project>

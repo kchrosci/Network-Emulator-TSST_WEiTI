@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Configs\**" />
+    <EmbeddedResource Remove="Configs\**" />
+    <None Remove="Configs\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="FinishProgram.bat" />
+    <None Remove="start1node.bat" />
+    <None Remove="startprogram.bat" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="..\NetworkMessage\NetworkMessage.cs" Link="NetworkMessage.cs" />
+  </ItemGroup>
+
+</Project>

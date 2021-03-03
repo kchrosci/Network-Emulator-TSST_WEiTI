@@ -1,0 +1,13 @@
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\bin\Debug\netcoreapp3.1\NetworkManagement.exe
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\bin\Debug\netcoreapp3.1\NetworkManagement.deps.json
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\bin\Debug\netcoreapp3.1\NetworkManagement.runtimeconfig.json
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\bin\Debug\netcoreapp3.1\NetworkManagement.runtimeconfig.dev.json
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\bin\Debug\netcoreapp3.1\NetworkManagement.dll
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\bin\Debug\netcoreapp3.1\NetworkManagement.pdb
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\obj\Debug\netcoreapp3.1\NetworkManagement.AssemblyInfoInputs.cache
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\obj\Debug\netcoreapp3.1\NetworkManagement.AssemblyInfo.cs
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\obj\Debug\netcoreapp3.1\NetworkManagement.csproj.CoreCompileInputs.cache
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\obj\Debug\netcoreapp3.1\NetworkManagement.dll
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\obj\Debug\netcoreapp3.1\NetworkManagement.pdb
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\obj\Debug\netcoreapp3.1\NetworkManagement.genruntimeconfig.cache
+C:\Users\01143845\Desktop\TSST\TSST2\NetworkManagement\obj\Debug\netcoreapp3.1\NetworkManagement.csprojAssemblyReference.cache
